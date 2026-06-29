@@ -1,0 +1,670 @@
+{
+    "timestamp": "2026-06-29 13:48:32",
+    "input": "D:\\MY WORK\\Project\\task\\barcode_system\\barcode_system\\tagss",
+    "total_images": 17,
+    "total_crops": 79,
+    "decoded": 74,
+    "failed": 5,
+    "unique_values": [
+        "01000001",
+        "01001011",
+        "01100001",
+        "01100100",
+        "01101000",
+        "01110010",
+        "01110011",
+        "10231272",
+        "10675847",
+        "120-122-10",
+        "120-122-20",
+        "120-122-30",
+        "120-124-20",
+        "120-124-30",
+        "120-1244",
+        "12345878",
+        "12348879",
+        "12349012",
+        "130-1234",
+        "130-1244",
+        "130-1344",
+        "1627381379625",
+        "23786011",
+        "45627392",
+        "9027385325611",
+        "ABC-1344"
+    ],
+    "results": [
+        {
+            "source_image": "IMG_20260520_162128_175.jpg.jpeg",
+            "crop_file": "IMG_20260520_162128_175.jpg_crop_1.jpeg",
+            "barcode_id": 1,
+            "angle": 72.29,
+            "decoded": "01100001",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162128_175.jpg.jpeg",
+            "crop_file": "IMG_20260520_162128_175.jpg_crop_2.jpeg",
+            "barcode_id": 2,
+            "angle": -7.74,
+            "decoded": "01001011",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162128_175.jpg.jpeg",
+            "crop_file": "IMG_20260520_162128_175.jpg_crop_3.jpeg",
+            "barcode_id": 3,
+            "angle": -44.99,
+            "decoded": "01101000",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162128_175.jpg.jpeg",
+            "crop_file": "IMG_20260520_162128_175.jpg_crop_4.jpeg",
+            "barcode_id": 4,
+            "angle": 47.31,
+            "decoded": "01110010",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162128_175.jpg.jpeg",
+            "crop_file": "IMG_20260520_162128_175.jpg_crop_5.jpeg",
+            "barcode_id": 5,
+            "angle": -46.92,
+            "decoded": "01110011",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162133_348.jpg.jpeg",
+            "crop_file": "IMG_20260520_162133_348.jpg_crop_1.jpeg",
+            "barcode_id": 1,
+            "angle": -8.28,
+            "decoded": "01001011",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162133_348.jpg.jpeg",
+            "crop_file": "IMG_20260520_162133_348.jpg_crop_2.jpeg",
+            "barcode_id": 2,
+            "angle": 50.29,
+            "decoded": "01110010",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162133_348.jpg.jpeg",
+            "crop_file": "IMG_20260520_162133_348.jpg_crop_3.jpeg",
+            "barcode_id": 3,
+            "angle": 50.3,
+            "decoded": "01110010",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162133_348.jpg.jpeg",
+            "crop_file": "IMG_20260520_162133_348.jpg_crop_4.jpeg",
+            "barcode_id": 4,
+            "angle": 51.07,
+            "decoded": "Could not read",
+            "status": "failed"
+        },
+        {
+            "source_image": "IMG_20260520_162136_923.jpg.jpeg",
+            "crop_file": "IMG_20260520_162136_923.jpg_crop_1.jpeg",
+            "barcode_id": 1,
+            "angle": -45.67,
+            "decoded": "Could not read",
+            "status": "failed"
+        },
+        {
+            "source_image": "IMG_20260520_162136_923.jpg.jpeg",
+            "crop_file": "IMG_20260520_162136_923.jpg_crop_2.jpeg",
+            "barcode_id": 2,
+            "angle": 72.89,
+            "decoded": "01100001",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162136_923.jpg.jpeg",
+            "crop_file": "IMG_20260520_162136_923.jpg_crop_3.jpeg",
+            "barcode_id": 3,
+            "angle": -45.85,
+            "decoded": "01110011",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162140_337.jpg.jpeg",
+            "crop_file": "IMG_20260520_162140_337.jpg_crop_1.jpeg",
+            "barcode_id": 1,
+            "angle": 78.13,
+            "decoded": "01100001",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162140_337.jpg.jpeg",
+            "crop_file": "IMG_20260520_162140_337.jpg_crop_2.jpeg",
+            "barcode_id": 2,
+            "angle": -4.27,
+            "decoded": "01001011",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162140_337.jpg.jpeg",
+            "crop_file": "IMG_20260520_162140_337.jpg_crop_3.jpeg",
+            "barcode_id": 3,
+            "angle": -45.91,
+            "decoded": "01101000",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162210_116.jpg (1).jpeg",
+            "crop_file": "IMG_20260520_162210_116.jpg (1)_crop_1.jpeg",
+            "barcode_id": 1,
+            "angle": 73.56,
+            "decoded": "01100001",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162210_116.jpg (1).jpeg",
+            "crop_file": "IMG_20260520_162210_116.jpg (1)_crop_2.jpeg",
+            "barcode_id": 2,
+            "angle": -49.41,
+            "decoded": "01101000",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162210_116.jpg (1).jpeg",
+            "crop_file": "IMG_20260520_162210_116.jpg (1)_crop_3.jpeg",
+            "barcode_id": 3,
+            "angle": -44.5,
+            "decoded": "01110011",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162210_116.jpg (1).jpeg",
+            "crop_file": "IMG_20260520_162210_116.jpg (1)_crop_4.jpeg",
+            "barcode_id": 4,
+            "angle": -8.66,
+            "decoded": "01001011",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162210_116.jpg (1).jpeg",
+            "crop_file": "IMG_20260520_162210_116.jpg (1)_crop_5.jpeg",
+            "barcode_id": 5,
+            "angle": 45.66,
+            "decoded": "01110010",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162354_057.jpg.jpeg",
+            "crop_file": "IMG_20260520_162354_057.jpg_crop_1.jpeg",
+            "barcode_id": 1,
+            "angle": -25.24,
+            "decoded": "130-1244",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162354_057.jpg.jpeg",
+            "crop_file": "IMG_20260520_162354_057.jpg_crop_2.jpeg",
+            "barcode_id": 2,
+            "angle": 59.14,
+            "decoded": "ABC-1344",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162354_057.jpg.jpeg",
+            "crop_file": "IMG_20260520_162354_057.jpg_crop_3.jpeg",
+            "barcode_id": 3,
+            "angle": -44.75,
+            "decoded": "12345878",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162354_057.jpg.jpeg",
+            "crop_file": "IMG_20260520_162354_057.jpg_crop_4.jpeg",
+            "barcode_id": 4,
+            "angle": 27.2,
+            "decoded": "12349012",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162354_057.jpg.jpeg",
+            "crop_file": "IMG_20260520_162354_057.jpg_crop_5.jpeg",
+            "barcode_id": 5,
+            "angle": 0.3,
+            "decoded": "12348879",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162354_057.jpg.jpeg",
+            "crop_file": "IMG_20260520_162354_057.jpg_crop_6.jpeg",
+            "barcode_id": 6,
+            "angle": 0.32,
+            "decoded": "12348879",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162354_057.jpg.jpeg",
+            "crop_file": "IMG_20260520_162354_057.jpg_crop_7.jpeg",
+            "barcode_id": 7,
+            "angle": -44.75,
+            "decoded": "12345878",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162354_057.jpg.jpeg",
+            "crop_file": "IMG_20260520_162354_057.jpg_crop_8.jpeg",
+            "barcode_id": 8,
+            "angle": 39.08,
+            "decoded": "130-1344",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162354_057.jpg.jpeg",
+            "crop_file": "IMG_20260520_162354_057.jpg_crop_9.jpeg",
+            "barcode_id": 9,
+            "angle": 58.62,
+            "decoded": "Could not read",
+            "status": "failed"
+        },
+        {
+            "source_image": "IMG_20260520_162354_057.jpg.jpeg",
+            "crop_file": "IMG_20260520_162354_057.jpg_crop_10.jpeg",
+            "barcode_id": 10,
+            "angle": 59.36,
+            "decoded": "ABC-1344",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162354_057.jpg.jpeg",
+            "crop_file": "IMG_20260520_162354_057.jpg_crop_11.jpeg",
+            "barcode_id": 11,
+            "angle": -24.95,
+            "decoded": "Could not read",
+            "status": "failed"
+        },
+        {
+            "source_image": "IMG_20260520_162405_487.jpg.jpeg",
+            "crop_file": "IMG_20260520_162405_487.jpg_crop_1.jpeg",
+            "barcode_id": 1,
+            "angle": -25.44,
+            "decoded": "130-1244",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162405_487.jpg.jpeg",
+            "crop_file": "IMG_20260520_162405_487.jpg_crop_2.jpeg",
+            "barcode_id": 2,
+            "angle": 58.98,
+            "decoded": "ABC-1344",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162405_487.jpg.jpeg",
+            "crop_file": "IMG_20260520_162405_487.jpg_crop_3.jpeg",
+            "barcode_id": 3,
+            "angle": -44.96,
+            "decoded": "12345878",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162405_487.jpg.jpeg",
+            "crop_file": "IMG_20260520_162405_487.jpg_crop_4.jpeg",
+            "barcode_id": 4,
+            "angle": 0.21,
+            "decoded": "12348879",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162405_487.jpg.jpeg",
+            "crop_file": "IMG_20260520_162405_487.jpg_crop_5.jpeg",
+            "barcode_id": 5,
+            "angle": 27.18,
+            "decoded": "12349012",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162405_487.jpg.jpeg",
+            "crop_file": "IMG_20260520_162405_487.jpg_crop_6.jpeg",
+            "barcode_id": 6,
+            "angle": 0.41,
+            "decoded": "12348879",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162405_487.jpg.jpeg",
+            "crop_file": "IMG_20260520_162405_487.jpg_crop_7.jpeg",
+            "barcode_id": 7,
+            "angle": 38.41,
+            "decoded": "130-1344",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162405_487.jpg.jpeg",
+            "crop_file": "IMG_20260520_162405_487.jpg_crop_8.jpeg",
+            "barcode_id": 8,
+            "angle": 59.14,
+            "decoded": "ABC-1344",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162448_466.jpg.jpeg",
+            "crop_file": "IMG_20260520_162448_466.jpg_crop_1.jpeg",
+            "barcode_id": 1,
+            "angle": 44.61,
+            "decoded": "120-122-10",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162448_466.jpg.jpeg",
+            "crop_file": "IMG_20260520_162448_466.jpg_crop_2.jpeg",
+            "barcode_id": 2,
+            "angle": -47.58,
+            "decoded": "ABC-1344",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162448_466.jpg.jpeg",
+            "crop_file": "IMG_20260520_162448_466.jpg_crop_3.jpeg",
+            "barcode_id": 3,
+            "angle": 33.12,
+            "decoded": "9027385325611",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162448_466.jpg.jpeg",
+            "crop_file": "IMG_20260520_162448_466.jpg_crop_4.jpeg",
+            "barcode_id": 4,
+            "angle": 56.31,
+            "decoded": "12349012",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162448_466.jpg.jpeg",
+            "crop_file": "IMG_20260520_162448_466.jpg_crop_5.jpeg",
+            "barcode_id": 5,
+            "angle": 44.74,
+            "decoded": "120-122-10",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162457_683.jpg.jpeg",
+            "crop_file": "IMG_20260520_162457_683.jpg_crop_1.jpeg",
+            "barcode_id": 1,
+            "angle": 44.25,
+            "decoded": "120-122-10",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162457_683.jpg.jpeg",
+            "crop_file": "IMG_20260520_162457_683.jpg_crop_2.jpeg",
+            "barcode_id": 2,
+            "angle": -45.8,
+            "decoded": "ABC-1344",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162457_683.jpg.jpeg",
+            "crop_file": "IMG_20260520_162457_683.jpg_crop_3.jpeg",
+            "barcode_id": 3,
+            "angle": 34.7,
+            "decoded": "9027385325611",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162457_683.jpg.jpeg",
+            "crop_file": "IMG_20260520_162457_683.jpg_crop_4.jpeg",
+            "barcode_id": 4,
+            "angle": 57.32,
+            "decoded": "12349012",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162607_157.jpg.jpeg",
+            "crop_file": "IMG_20260520_162607_157.jpg_crop_1.jpeg",
+            "barcode_id": 1,
+            "angle": 35.5,
+            "decoded": "120-124-30",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162607_157.jpg.jpeg",
+            "crop_file": "IMG_20260520_162607_157.jpg_crop_2.jpeg",
+            "barcode_id": 2,
+            "angle": -45.29,
+            "decoded": "120-1244",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162607_157.jpg.jpeg",
+            "crop_file": "IMG_20260520_162607_157.jpg_crop_3.jpeg",
+            "barcode_id": 3,
+            "angle": 30.62,
+            "decoded": "1627381379625",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162607_157.jpg.jpeg",
+            "crop_file": "IMG_20260520_162607_157.jpg_crop_4.jpeg",
+            "barcode_id": 4,
+            "angle": -0.59,
+            "decoded": "120-122-30",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162607_157.jpg.jpeg",
+            "crop_file": "IMG_20260520_162607_157.jpg_crop_5.jpeg",
+            "barcode_id": 5,
+            "angle": -0.04,
+            "decoded": "45627392",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162607_157.jpg.jpeg",
+            "crop_file": "IMG_20260520_162607_157.jpg_crop_6.jpeg",
+            "barcode_id": 6,
+            "angle": -27.76,
+            "decoded": "10675847",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162607_157.jpg.jpeg",
+            "crop_file": "IMG_20260520_162607_157.jpg_crop_7.jpeg",
+            "barcode_id": 7,
+            "angle": 0.63,
+            "decoded": "23786011",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162614_095.jpg.jpeg",
+            "crop_file": "IMG_20260520_162614_095.jpg_crop_1.jpeg",
+            "barcode_id": 1,
+            "angle": -45.94,
+            "decoded": "120-1244",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162614_095.jpg.jpeg",
+            "crop_file": "IMG_20260520_162614_095.jpg_crop_2.jpeg",
+            "barcode_id": 2,
+            "angle": 0.42,
+            "decoded": "120-122-30",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162614_095.jpg.jpeg",
+            "crop_file": "IMG_20260520_162614_095.jpg_crop_3.jpeg",
+            "barcode_id": 3,
+            "angle": -26.54,
+            "decoded": "10675847",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162614_095.jpg.jpeg",
+            "crop_file": "IMG_20260520_162614_095.jpg_crop_4.jpeg",
+            "barcode_id": 4,
+            "angle": 1.13,
+            "decoded": "23786011",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162614_095.jpg.jpeg",
+            "crop_file": "IMG_20260520_162614_095.jpg_crop_5.jpeg",
+            "barcode_id": 5,
+            "angle": 34.29,
+            "decoded": "Could not read",
+            "status": "failed"
+        },
+        {
+            "source_image": "IMG_20260520_162725_492.jpg.jpeg",
+            "crop_file": "IMG_20260520_162725_492.jpg_crop_1.jpeg",
+            "barcode_id": 1,
+            "angle": -0.14,
+            "decoded": "130-1344",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162725_492.jpg.jpeg",
+            "crop_file": "IMG_20260520_162725_492.jpg_crop_2.jpeg",
+            "barcode_id": 2,
+            "angle": -75.28,
+            "decoded": "01000001",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162725_492.jpg.jpeg",
+            "crop_file": "IMG_20260520_162725_492.jpg_crop_3.jpeg",
+            "barcode_id": 3,
+            "angle": -46.98,
+            "decoded": "10231272",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162725_492.jpg.jpeg",
+            "crop_file": "IMG_20260520_162725_492.jpg_crop_4.jpeg",
+            "barcode_id": 4,
+            "angle": 45.72,
+            "decoded": "130-1234",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162725_492.jpg.jpeg",
+            "crop_file": "IMG_20260520_162725_492.jpg_crop_5.jpeg",
+            "barcode_id": 5,
+            "angle": 45.72,
+            "decoded": "130-1234",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162807_079.jpg.jpeg",
+            "crop_file": "IMG_20260520_162807_079.jpg_crop_1.jpeg",
+            "barcode_id": 1,
+            "angle": -0.66,
+            "decoded": "01100100",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162807_079.jpg.jpeg",
+            "crop_file": "IMG_20260520_162807_079.jpg_crop_2.jpeg",
+            "barcode_id": 2,
+            "angle": -29.03,
+            "decoded": "120-122-20",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162807_079.jpg.jpeg",
+            "crop_file": "IMG_20260520_162807_079.jpg_crop_3.jpeg",
+            "barcode_id": 3,
+            "angle": -54.24,
+            "decoded": "01101000",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162807_079.jpg.jpeg",
+            "crop_file": "IMG_20260520_162807_079.jpg_crop_4.jpeg",
+            "barcode_id": 4,
+            "angle": 36.76,
+            "decoded": "12345878",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162809_793.jpg (1).jpeg",
+            "crop_file": "IMG_20260520_162809_793.jpg (1)_crop_1.jpeg",
+            "barcode_id": 1,
+            "angle": 1.96,
+            "decoded": "01100100",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162809_793.jpg (1).jpeg",
+            "crop_file": "IMG_20260520_162809_793.jpg (1)_crop_2.jpeg",
+            "barcode_id": 2,
+            "angle": -26.79,
+            "decoded": "120-122-20",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162809_793.jpg (1).jpeg",
+            "crop_file": "IMG_20260520_162809_793.jpg (1)_crop_3.jpeg",
+            "barcode_id": 3,
+            "angle": -52.11,
+            "decoded": "01101000",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162809_793.jpg (1).jpeg",
+            "crop_file": "IMG_20260520_162809_793.jpg (1)_crop_4.jpeg",
+            "barcode_id": 4,
+            "angle": 39.08,
+            "decoded": "12345878",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162838_273.jpg.jpeg",
+            "crop_file": "IMG_20260520_162838_273.jpg_crop_1.jpeg",
+            "barcode_id": 1,
+            "angle": -72.15,
+            "decoded": "01000001",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162838_273.jpg.jpeg",
+            "crop_file": "IMG_20260520_162838_273.jpg_crop_2.jpeg",
+            "barcode_id": 2,
+            "angle": 3.58,
+            "decoded": "01100100",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162838_273.jpg.jpeg",
+            "crop_file": "IMG_20260520_162838_273.jpg_crop_3.jpeg",
+            "barcode_id": 3,
+            "angle": -49.8,
+            "decoded": "01101000",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162838_273.jpg.jpeg",
+            "crop_file": "IMG_20260520_162838_273.jpg_crop_4.jpeg",
+            "barcode_id": 4,
+            "angle": 1.46,
+            "decoded": "120-124-20",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162838_273.jpg.jpeg",
+            "crop_file": "IMG_20260520_162838_273.jpg_crop_5.jpeg",
+            "barcode_id": 5,
+            "angle": 46.44,
+            "decoded": "130-1234",
+            "status": "success"
+        },
+        {
+            "source_image": "IMG_20260520_162838_273.jpg.jpeg",
+            "crop_file": "IMG_20260520_162838_273.jpg_crop_6.jpeg",
+            "barcode_id": 6,
+            "angle": 41.28,
+            "decoded": "12345878",
+            "status": "success"
+        }
+    ]
+}

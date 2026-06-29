@@ -1,0 +1,11 @@
+# Barcode Orientation Correction & Decoding System
+# Requirements
+# ─────────────────────────────────────────────────
+# Install all dependencies:
+#   pip install -r requirements.txt
+
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+zxing-cpp>=2.0.0
+numpy>=1.24.0
+Pillow>=9.0.0
